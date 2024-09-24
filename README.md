@@ -1,17 +1,16 @@
-## Hi there 👋
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<!--
-**EMMUUU28/EMMUUU28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 ![](https://komarev.com/ghpvc/?username=EMMUUU28&abbreviated=true)
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EMMUUU28&show_icons=true&theme=radical&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EMMUUU28&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=EMMUUU28&theme=alduin&title=-Reviews,-Followers,-Issues" />
+
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EMMUUU28)](https://git.io/streak-stats)
