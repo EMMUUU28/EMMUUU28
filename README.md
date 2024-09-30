@@ -79,8 +79,7 @@
 
 <br/>  
 
-
-
+[![An image of @emmuuu28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emmuuu28)](https://holopin.io/@emmuuu28)
   
 
 <br/>  
