@@ -1,6 +1,8 @@
 ## GodSpeed🚀 ![](https://komarev.com/ghpvc/?username=EMMUUU28&abbreviated=true)
 <p align="center">
-  <img src="cover.png" width="100%" title="hover text">
+  <img src="cover.png" width="100%" title="Meri Ek taang nakli hai, Mai hockey ka bohoth bada khiladi tha.
+Ek din Uday bhai ko meri kisi baat pe gussa aagaya aur mere he hockey se meri taang ke do tukde kar diye.
+Lekin dil ke bohot ache hai, Fauran mujhe hospital le gaye aur ye nakli taang lagwayi">
 </p>
 
 ## Github Stats  
