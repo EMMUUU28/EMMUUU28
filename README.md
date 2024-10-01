@@ -73,6 +73,9 @@
 </a>
 <a href="https://linkedin.com/in/emmanuel-gudinho" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://devfolio.co/@Emmanuel286" target="_blank">
+<img src="https://github.com/devfolioco/brand-assets/blob/main/Logo%20%2B%20Text%20-%20White/Devfolio%20-%20White.svg" style="margin-bottom: 5px; width: 100px; height: 25px;"  />
+</a> 
 </a>  
 </div>  
   
