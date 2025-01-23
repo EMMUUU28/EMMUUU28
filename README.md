@@ -17,8 +17,7 @@ Lekin dil ke bohot ache hai, Fauran mujhe hospital le gaye aur ye nakli taang la
   <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=EMMUUU28&theme=alduin&title=-Reviews,-Followers,-Issues" />
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EMMUUU28)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=EMMUUU28)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
