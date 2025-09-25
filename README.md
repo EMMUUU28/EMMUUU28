@@ -91,6 +91,9 @@ Lekin dil ke bohot ache hai, Fauran mujhe hospital le gaye aur ye nakli taang la
 
 ## Recent Blog Posts  
 [Revolutionize Learning with Smart Education System: Generative AI, Django, and PWA Integration.](https://medium.com/@emmanuelgudinho45/revolutionize-learning-with-smart-education-system-generative-ai-django-and-pwa-integration-b5024e6702e3)  
+
+[Building a Production-Ready CI/CD Pipeline: From Code to Cloud in Minutes.](https://medium.com/@emmanuelgudinho45/building-a-production-ready-ci-cd-pipeline-from-code-to-cloud-in-minutes-c40d3861f17c)  
+
   
 
   
