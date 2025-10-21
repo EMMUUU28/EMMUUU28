@@ -6,63 +6,39 @@ Lekin dil ke bohot ache hai, Fauran mujhe hospital le gaye aur ye nakli taang la
 </p>
 
 ## Github Stats  
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EMMUUU28&show_icons=true&theme=radical&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EMMUUU28&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EMMUUU28&show_icons=true&theme=radical&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EMMUUU28&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  </a>
 
   <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=EMMUUU28&theme=alduin&title=-Reviews,-Followers,-Issues" />
+  
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=EMMUUU28)
 
+## My Skill Set
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=EMMUUU28)
+### Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,js,css,tailwind,django,materialui&perline=8" />
+  </a>
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,postgres,nodejs,mysql,graphql,gcp,aws&perline=8" />
+  </a>
+</p>
 
-
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
+### DevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,linux,git&perline=8" />
+  </a>
+</p>
 
 <br/>  
 
@@ -88,11 +64,51 @@ Lekin dil ke bohot ache hai, Fauran mujhe hospital le gaye aur ye nakli taang la
 
 <br/>  
 
+## 📝 Latest Blog Posts
 
-## Recent Blog Posts  
-[Revolutionize Learning with Smart Education System: Generative AI, Django, and PWA Integration.](https://medium.com/@emmanuelgudinho45/revolutionize-learning-with-smart-education-system-generative-ai-django-and-pwa-integration-b5024e6702e3)  
+<div align="center">
 
-[Building a Production-Ready CI/CD Pipeline: From Code to Cloud in Minutes.](https://medium.com/@emmanuelgudinho45/building-a-production-ready-ci-cd-pipeline-from-code-to-cloud-in-minutes-c40d3861f17c)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emmanuelgudinho45)
+![Views](https://img.shields.io/badge/Total_Views-100+-green?style=for-the-badge)
+![Articles](https://img.shields.io/badge/Articles-2+-blue?style=for-the-badge)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Building a Production-Ready CI/CD Pipeline: From Code to Cloud in Minutes
+**Published:** Sept 25, 2025 | ⏱️ 8 min read
+
+<div align="center">
+  
+[![Read More](https://img.shields.io/badge/Read%20More-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/codex/building-a-production-ready-ci-cd-pipeline-from-code-to-cloud-in-minutes-c40d3861f17c)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### Revolutionize Learning with Smart Education System: Generative AI, Django, and PWA Integration.
+**Published:** May 18, 2024 | ⏱️ 6 min read
+
+<div align="center">
+  
+[![Read More](https://img.shields.io/badge/Read%20More-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emmanuelgudinho45/revolutionize-learning-with-smart-education-system-generative-ai-django-and-pwa-integration-b5024e6702e3)
+
+</div>
+
+</td>
+</tr>
+
+</table>
+
+<div align="center">
+
+### 📚 [View All Articles →](https://medium.com/@emmanuelgudinho45)
+
+</div>
 
   
 
